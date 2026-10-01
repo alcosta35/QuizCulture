@@ -1,0 +1,4 @@
+# Keep LF line endings everywhere so serverlab never needs dos2unix
+* text=auto eol=lf
+*.png binary
+*.jpg binary
